@@ -56,7 +56,7 @@ the final metrics.
 You can check these weights https://drive.google.com/file/d/1f-Co64ehgq4uddcQm1aFBDtbnyZhQvgG/view?usp=drive_link to try model
 
 ## How to train
-1. Clone the repository `https://github.com/yastrebksv/TennisCourtDetector.git`
+1. Clone the repository `https://github.com/TheJagStudio/TennisAI.git`
 2. Run `pip install -r requirements.txt` to install packages required
 3. Put dataset into `/data` folder
 4. Run `python main.py` to start training
