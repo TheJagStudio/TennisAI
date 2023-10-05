@@ -1,6 +1,6 @@
 # TennisProject
 Tennis analysis using deep learning and machine learning. <br>
-You can check this blog post [https://medium.com/@kosolapov.aetp/tennis-analysis-using-deep-learning-and-machine-learning-a5a74db7e2ee](https://www.linkedin.com/pulse/deep-learning-machine-analysis-tennis-jagrat-patel) for more details
+You can check this blog post [https://www.linkedin.com/pulse/deep-learning-machine-analysis-tennis-jagrat-patel](https://www.linkedin.com/pulse/deep-learning-machine-analysis-tennis-jagrat-patel) for more details
 
 ![](pics/hard.gif)
 ![](pics/grass.gif)
